@@ -2,6 +2,8 @@ package com.example.jobPortal.entity;
 
 import jakarta.persistence.*;
 
+
+
 import java.util.List;
 
 @Entity
